@@ -8,3 +8,5 @@ OpenCV Image, Video Processing,
 ### Haar Casscode Vehicle Detection
 ### Text Extraction with Easy OCR and PyTesseract (Computer Vision && NLP)
 ![Example](image.png)
+### Bar and QR code Generation and Reading/Detecting
+![Example](<BarQRcode Generating and Reading/qrdetect.png>)
