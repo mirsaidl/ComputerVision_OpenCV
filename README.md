@@ -9,3 +9,6 @@ OpenCV Image, Video Processing
 
 ### Haar Casscode Vehicle Detection
 <video controls src="Haar Casscode Object Detection/Vehicle and Pedastrian Detection/cars_output.mp4" title="Vehicle Detection"></video>
+
+### Text Extraction with Easy OCR and PyTesseract (Computer Vision && NLP)
+![alt text](image.png)
